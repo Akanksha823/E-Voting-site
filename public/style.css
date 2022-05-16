@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=font-family:Jacques Francois:wght@200&display=swap');
+*{
+    margin:0;
+    padding:0;
+    font-family:'Jacques Francois';
+    Text-align:center;
+    border-color:white;
+    
+}
+.btn1{
+    margin-top:20em;
+    margin-right:15em;
+    width:19em;
+    height:5em;
+    background-color:#03275e ;
+    color:white;
+    border-radius:1.7em;
+    
+}
+.btn2{
+    width:19em;
+    height:5em;
+    background-color:#03275e ;
+    color:white;
+    border-radius:1.7em;
+}
